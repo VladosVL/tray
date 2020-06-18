@@ -1,0 +1,9 @@
+C:\Users\123\source\repos\TRAY\TRAY\bin\Debug\TRAY.exe.config
+C:\Users\123\source\repos\TRAY\TRAY\bin\Debug\TRAY.exe
+C:\Users\123\source\repos\TRAY\TRAY\bin\Debug\TRAY.pdb
+C:\Users\123\source\repos\TRAY\TRAY\obj\Debug\TRAY.csprojAssemblyReference.cache
+C:\Users\123\source\repos\TRAY\TRAY\obj\Debug\TRAY.Form1.resources
+C:\Users\123\source\repos\TRAY\TRAY\obj\Debug\TRAY.Properties.Resources.resources
+C:\Users\123\source\repos\TRAY\TRAY\obj\Debug\TRAY.csproj.GenerateResource.cache
+C:\Users\123\source\repos\TRAY\TRAY\obj\Debug\TRAY.exe
+C:\Users\123\source\repos\TRAY\TRAY\obj\Debug\TRAY.pdb
